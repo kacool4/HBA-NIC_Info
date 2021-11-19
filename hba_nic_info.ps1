@@ -50,5 +50,5 @@ foreach ($ESXHost in $vmhosts) {
 }
 
 ########## Export data from Nic and HBA to 2 different files############
-$OutputHBA | Export-Csv -Path 'info_hba.csv'
-$OutputNIC | Export-Csv -Path 'info_nic.csv'
+$OutputHBA | Export-Csv -Path 'HBA_Info.csv'
+$OutputNIC | Export-Csv -Path 'NIC_Info.csv'
