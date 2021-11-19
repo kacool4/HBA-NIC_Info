@@ -1,4 +1,4 @@
-# HBA and Network info for Drivers and Firmware
+# HBA and Network Drivers // Firmware Info
 
 
 ## Scope:
