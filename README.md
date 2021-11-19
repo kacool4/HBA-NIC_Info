@@ -39,8 +39,6 @@ The script will run and create 2 CSV files. One with all HBA info (HBA_Info.csv)
    PS> Connect-VIServer <vCenter-IP-FQDN>
    ```
    
-* When I run the script it gives me error on Excel commands
-  > You are missing the Excel module. You need to import it prior of running the script.
-  ```powershell 
-  PS> Install-Module -Name ImportExcel
-  ```
+* Can I export it in 1 csv with 2 tabs, one for HBA and the other for NIC?
+  > Unfortunately tabs are not supported when you Output CSV files. 
+  
