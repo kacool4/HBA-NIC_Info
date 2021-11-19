@@ -24,12 +24,12 @@ The script will run and create 2 CSV files. One with all HBA info (HBA_Info.csv)
 
 - HBA Info
   
-![Alt text](/screenshot/hba.jpg?raw=true "Info about HBA firmware // driver version")
+![Alt text](/screenshots/hba.jpg?raw=true "Info about HBA firmware // driver version")
  
 
 - NIC Info
  
-![Alt text](/screenshot/nic.jpg?raw=true "Info about Nic firmware // driver version")
+![Alt text](/screenshots/nic.jpg?raw=true "Info about Nic firmware // driver version")
 
 
 ## Frequetly Asked Questions:
